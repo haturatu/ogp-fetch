@@ -66,6 +66,5 @@ func main() {
   }
 
   fmt.Printf("Site Name: %s\n", siteName)
-  fmt.Printf("aaaaa:: %s\n", siteName)
   fmt.Printf("Title: %s\n", title)
 }
