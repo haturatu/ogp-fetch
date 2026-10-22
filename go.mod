@@ -1,5 +1,5 @@
 module ogp-fetch
 
-go 1.23.3
+go 1.27.3
 
 require golang.org/x/net v0.31.0
